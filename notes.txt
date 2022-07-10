@@ -1,0 +1,13 @@
+//Wanted to add a data
+<h2>My name is 
+		<%= value %> from value app.js
+	</h2>
+//
+
+Wanted to add a file
+<%- include('name of the file') %>
+
+https://cloud.mongodb.com/v2/62c9a4754becbe074ffdd14a#clusters
+
+
+we can only have post and get method so we use method override for updation
